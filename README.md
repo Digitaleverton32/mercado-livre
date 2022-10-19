@@ -36,4 +36,15 @@
 <img width="284" height="284" src="https://http2.mlstatic.com/D_NQ_NP_792909-MLB51195813961_082022-W.webp" class="ui-search-result-image__element shops__image-element" alt="Cozinha Completa Colormaq Titanium 4 Peças Em Aço">
 <img width="284" height="284" src="https://http2.mlstatic.com/D_NQ_NP_763746-MLB48588901915_122021-W.webp" class="ui-search-result-image__element shops__image-element" alt="Armário De Cozinha Completa Golden Nogueira / Off White">
 <img data-zoom="https://http2.mlstatic.com/D_NQ_NP_926013-MLA50041554325_052022-F.webp" data-index="0" width="284" height="284" decoding="async" src="https://http2.mlstatic.com/D_NQ_NP_926013-MLA50041554325_052022-O.webp" class="ui-pdp-image ui-pdp-gallery__figure__image" alt="Imagem 1 de 4 de Geladeira frost free Brastemp BRM44H inox com freezer 375L 127V">
- 
+ <img decoding="async" src="https://http2.mlstatic.com/D_Q_NP_871506-MLA31455211614_072019-P.webp" class="dynamic-carousel__img" alt="Micro-ondas Electrolux MEF41   branco 31L 127V ">
+  <img width="224" height="224" decoding="async" src="https://http2.mlstatic.com/D_Q_NP_776475-MLB49831074561_052022-AB.webp" class="ui-item__image" alt="Caixa De Som Partybox 100 Bluetooth Portátil 160w Jbl Bivolt">
+  <img width="184" height="184" decoding="async" src="https://http2.mlstatic.com/D_Q_NP_727343-MLA50947669823_072022-AC.webp" alt="Cafeteira Mondial Dolce Aroma C-43-20x-si Semi Automática Preta E Aço Inoxidável De Filtro 127v">
+  <img width="184" height="184" decoding="async" src="https://http2.mlstatic.com/D_Q_NP_708967-MLA50044450432_052022-AC.webp" alt="Liquidificador Britânia Turbo Blq Diamante 2.7 L Preto Com Jarra De Acrílico 127v">
+  <img decoding="async" src="https://http2.mlstatic.com/D_Q_NP_703125-MLA50817264717_072022-P.webp" class="dynamic-carousel__img" alt="Fogão cooktop gás Itatiaia NG 5 Bocas tripla chama preto 127V/220V ">
+  <img decoding="async" src="https://http2.mlstatic.com/D_Q_NP_970599-MLA43802537999_102020-P.webp" class="dynamic-carousel__img" alt="Ar condicionado TCL Elite Series A1  split  frio 9000 BTU  branco 220V TAC-09CSA1 ">
+  <img width="160" height="160" src="https://http2.mlstatic.com/D_NQ_NP_715410-MLA40252763889_122019-V.webp" class="ui-search-result-image__element shops__image-element" alt="Fogão  de piso Electrolux  52LPV  gás engarrafado 4 queimadores  preto 127V/220V porta com visor 70L">
+  <img width="160" height="160" src="https://http2.mlstatic.com/D_NQ_NP_744274-MLA43438116692_092020-V.webp" class="ui-search-result-image__element shops__image-element" alt="Fogão  de piso Atlas Mônaco Top Glass  4Q  gás engarrafado 4 queimadores  branco 127V/220V porta com visor 50L">
+  <img width="160" height="160" src="https://http2.mlstatic.com/D_NQ_NP_725620-MLB45299318721_032021-V.webp" class="ui-search-result-image__element shops__image-element" alt="Refrigerador Electrolux Top Freezer 431l Branco 127v Tf55">
+  <img width="160" height="160" src="https://http2.mlstatic.com/D_NQ_NP_689215-MLB47228146369_082021-V.webp" class="ui-search-result-image__element shops__image-element" alt="Refrigerador Electrolux Frostfree 382l Topfreezer Tf42s 127v">
+  <img width="160" height="160" src="https://http2.mlstatic.com/D_NQ_NP_602112-MLB45686481690_042021-V.webp" class="ui-search-result-image__element shops__image-element" alt="Refrigerador Electrolux 371l 2 Portas Ff Branco 127v">
+  
